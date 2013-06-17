@@ -1,0 +1,13 @@
+C:\Users\TonyQ\documents\visual studio 2012\Projects\TicTacToe_test1\TicTacToe_test1\bin\Release\resources.pri
+C:\Users\TonyQ\documents\visual studio 2012\Projects\TicTacToe_test1\TicTacToe_test1\bin\Release\AppxManifest.xml
+C:\Users\TonyQ\documents\visual studio 2012\Projects\TicTacToe_test1\TicTacToe_test1\bin\Release\TicTacToe_test1.build.appxrecipe
+C:\Users\TonyQ\documents\visual studio 2012\Projects\TicTacToe_test1\TicTacToe_test1\bld\Release\priconfig.xml.intermediate
+C:\Users\TonyQ\documents\visual studio 2012\Projects\TicTacToe_test1\TicTacToe_test1\bld\Release\layout.resfiles.intermediate
+C:\Users\TonyQ\documents\visual studio 2012\Projects\TicTacToe_test1\TicTacToe_test1\bld\Release\resources.resfiles.intermediate
+C:\Users\TonyQ\documents\visual studio 2012\Projects\TicTacToe_test1\TicTacToe_test1\bld\Release\pri.resfiles.intermediate
+C:\Users\TonyQ\documents\visual studio 2012\Projects\TicTacToe_test1\TicTacToe_test1\bld\Release\priconfig.xml
+C:\Users\TonyQ\documents\visual studio 2012\Projects\TicTacToe_test1\TicTacToe_test1\bld\Release\layout.resfiles
+C:\Users\TonyQ\documents\visual studio 2012\Projects\TicTacToe_test1\TicTacToe_test1\bld\Release\resources.resfiles
+C:\Users\TonyQ\documents\visual studio 2012\Projects\TicTacToe_test1\TicTacToe_test1\bld\Release\pri.resfiles
+C:\Users\TonyQ\documents\visual studio 2012\Projects\TicTacToe_test1\TicTacToe_test1\bld\Release\LanguageQualifiers.txt
+C:\Users\TonyQ\documents\visual studio 2012\Projects\TicTacToe_test1\TicTacToe_test1\bld\Release\ProjectArchitectures.txt

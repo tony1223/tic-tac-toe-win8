@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <title>homePage</title>
+
+    <!-- WinJS 參考 -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="/css/default.css" rel="stylesheet" />
+	<link href="/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="/js/jquery-2.0.0.min.js"></script>
+    <script src="/pages/game/game.js"></script>
+</head>
+<body>
+    <!-- 將載入並顯示的內容。 -->
+    <div class="fragment homepage">
+        <div class="game-view">
+			<h1>Tic-Tac-Toe Game</h1>
+			<div class="tic-table">
+				<div class="column column1 clearfix">
+					<div class="cell cell-unused" data-index="0">
+						<div class="icon"></div>
+					</div>
+					<div class="cell cell-unused " data-index="1">
+						<div class="icon"></div>
+					</div>
+					<div class="cell cell-unused " data-index="2">
+						<div class="icon"></div>
+					</div>
+				</div>
+				<div class="column column2 clearfix">
+					<div class="cell cell-unused" data-index="3">
+						<div class="icon"></div>
+					</div>
+					<div class="cell cell-unused" data-index="4">
+						<div class="icon"></div>
+					</div>
+					<div class="cell cell-unused" data-index="5">
+						<div class="icon"></div>
+					</div>
+				</div>
+				<div class="column column3 clearfix">
+					<div class="cell cell-unused "  data-index="6">
+						<div class="icon"></div>
+					</div>
+
+					<div class="cell cell-unused "  data-index="7">
+						<div class="icon"></div>
+					</div>
+					<div class="cell cell-unused "  data-index="8">
+						<div class="icon"></div>
+					</div>
+				</div>
+				<div class="status"></div>
+				<div class="controll">
+					<a onClick="WinJS.Navigation.navigate('/pages/game/game.html', {});" class="btn" >Play Again</a>
+					<a onClick="WinJS.Navigation.navigate('/pages/record/record.html', {});" class="btn" >View Score</a>
+				</div>
+			</div>
+		</div>
+    </div>
+</body>
+</html>
